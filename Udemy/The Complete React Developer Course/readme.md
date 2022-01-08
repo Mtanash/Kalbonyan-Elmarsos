@@ -2,7 +2,7 @@
 
 [Certification link](https://www.udemy.com/certificate/UC-79a15061-11ad-4db7-9c92-b0aef0d11009/)
 
-# Expensify app
+## Expensify app
 
 [Expensify app live link](https://mtanash-expensify-app.herokuapp.com/)
 
