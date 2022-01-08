@@ -1,0 +1,15 @@
+.tasks .container {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.tasks__content {
+  border-radius: 10px;
+  overflow: hidden;
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+}

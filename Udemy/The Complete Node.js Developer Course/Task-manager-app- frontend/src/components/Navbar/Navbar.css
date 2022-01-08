@@ -1,0 +1,28 @@
+.navbar {
+  height: 80px;
+  background-color: var(--dark-blue);
+  color: var(--white-smoke);
+}
+
+.navbar .container {
+  height: inherit;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.navbar__content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar__title {
+}
+
+.navbar__userInfo {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+}

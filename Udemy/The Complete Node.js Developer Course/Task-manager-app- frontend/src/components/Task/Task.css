@@ -1,0 +1,54 @@
+.task {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  width: 100%;
+  border-radius: 10px;
+  padding: 15px;
+  display: grid;
+  gap: 5px;
+  grid-template-columns: repeat(10, 1fr);
+  grid-template-rows: 1fr 1fr auto;
+}
+
+.task.completed .task__description {
+  text-decoration: line-through;
+}
+
+.task .task__checkbox {
+  grid-column: 1/2;
+  grid-row: 1/2;
+  align-self: flex-start;
+}
+
+.task__description {
+  grid-column: 2/10;
+  grid-row: 1/3;
+  align-self: flex-start;
+}
+
+.task .delete-btn {
+  grid-column: 10/11;
+  grid-row: 1/2;
+  margin-top: 5px;
+  align-self: center;
+}
+
+.task .edit-btn {
+  grid-column: 10/11;
+  grid-row: 2/3;
+  align-self: center;
+}
+
+.task__date {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+  grid-column: 1/9;
+  grid-row: 3/4;
+}
+
+.task__date > p {
+  color: #444;
+  font-size: 0.7rem;
+}

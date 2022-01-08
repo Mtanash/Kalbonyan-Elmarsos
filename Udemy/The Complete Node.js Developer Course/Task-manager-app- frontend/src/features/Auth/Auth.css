@@ -1,0 +1,29 @@
+.auth .container {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.auth__content {
+  border-radius: 10px;
+  overflow: hidden;
+  width: 70%;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  padding: 30px 15px;
+  display: flex;
+  gap: 25px;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.auth__form {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  justify-content: stretch;
+}
+
+.auth__button {
+  align-self: center;
+}

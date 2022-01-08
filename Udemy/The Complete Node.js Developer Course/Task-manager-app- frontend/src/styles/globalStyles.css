@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --dark-blue: #161853;
+  --light-blue: #292c6d;
+  --white-smoke: #faedf0;
+  --light-red: #ec255a;
+}
+
+html,
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+img {
+  width: 100%;
+  object-fit: cover;
+}
+
+input {
+  background-color: var(--white-smoke);
+  width: 100%;
+  border: none;
+  outline: none;
+  font-size: 1.2rem;
+  height: 40px;
+  padding: 0 10px;
+  border-radius: 10px;
+  color: #000;
+}
+
+.btn {
+  cursor: pointer;
+  display: inline-block;
+  border: none;
+  outline: none;
+  padding: 10px 15px;
+}
+
+.btn.primary {
+  background-color: var(--light-red);
+  color: var(--white-smoke);
+  padding: 10px 25px;
+  font-size: 1.2rem;
+  transition: transform 200ms ease-in;
+}
+
+.btn.primary.center {
+  align-self: center;
+}
+
+.btn.primary:focus,
+.btn.primary:hover {
+  transform: scale(0.98);
+}
+
+.link-btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-weight: inherit;
+  font-size: inherit;
+}
+
+.container {
+  max-width: 1024px;
+  margin: auto;
+  padding: 0 15px;
+}
+
+::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #222;
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: #222;
+}
+
+::-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: #222;
+}
