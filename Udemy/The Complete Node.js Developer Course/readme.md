@@ -16,10 +16,10 @@
 
 [frontend live link](https://mtanash-task-manager-frontend.herokuapp.com/)
 
-![live screenshot](/task-manager-frontend.png)
+![live screenshot](task-manager-frontend.png)
 
 ## Chat app (socket io)
 
 [chat app live link](https://mtanash-chat-app-socketio.herokuapp.com/)
 
-![live screenshot](/chat.png)
+![live screenshot](chat.png)
