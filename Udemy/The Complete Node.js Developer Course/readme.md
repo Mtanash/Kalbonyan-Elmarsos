@@ -6,7 +6,7 @@
 
 [Weather app live link](https://mtanash-node-weather-app.herokuapp.com/)
 
-![live screenshot](/weather-app.png)
+![live screenshot](weather-app.png)
 
 ## Task manager API
 
