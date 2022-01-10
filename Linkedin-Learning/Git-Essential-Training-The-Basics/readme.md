@@ -16,4 +16,4 @@
 ---
 
 [Course Link](https://www.linkedin.com/learning/git-essential-training-the-basics)
-<br>[Preview Certificate](https://www.linkedin.com/posts/mohamed-tanash-7331a2176_git-activity-6844976294975827968-0s4O)
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/84376a1671691d955afcd3463c1c9a031d97c11268376cfd029e266653e368fa?trk=share_certificate)

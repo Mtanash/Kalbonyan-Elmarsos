@@ -21,4 +21,4 @@
 ---
 
 [Course Link](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/)
-<br>[Preview Certificate](https://www.linkedin.com/posts/mohamed-tanash-7331a2176_softwaredesignpatterns-java-activity-6843166278258053120-X95j)
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/c9a2851ddd6a4e007b3f0fa682aa76707838e16c70bb9cea358e4755ad84e518?trk=share_certificate)

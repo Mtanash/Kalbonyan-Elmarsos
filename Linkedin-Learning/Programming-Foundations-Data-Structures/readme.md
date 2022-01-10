@@ -20,4 +20,4 @@
 ---
 
 [Course Link](https://www.linkedin.com/learning/programming-foundations-data-structures-2/)
-<br>[Preview Certificate](https://www.linkedin.com/posts/mohamed-tanash-7331a2176_datastructures-activity-6841432900261425153-0UsV)
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/9100439b0b988476a562945d73e13f3c91e5ebf07a50034a77aba8f0da082b33?trk=share_certificate)

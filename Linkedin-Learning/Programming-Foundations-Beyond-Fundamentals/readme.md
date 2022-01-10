@@ -7,4 +7,4 @@
 ---
 
 [Course Link](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/?resume=false)
-<br>[Preview Certificate](https://www.linkedin.com/posts/mohamed-tanash-7331a2176_just-finished-the-course-programming-foundations-activity-6838886355007766528-tin9)
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/0c2715bc8d35d10548102778537e78ea402996a1fb066e57e7178605c55d0597?trk=share_certificate)
