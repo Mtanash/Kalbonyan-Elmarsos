@@ -20,4 +20,4 @@
 ---
 
 [Course Link](https://www.linkedin.com/learning/programming-foundations-data-structures-2/)
-<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/9100439b0b988476a562945d73e13f3c91e5ebf07a50034a77aba8f0da082b33?trk=share_certificate)
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/1caf2e46cee0575695f6cbdc982790a5f711f7988f40bc18c7aed293f51b32a5?trk=share_certificate)

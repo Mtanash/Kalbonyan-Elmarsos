@@ -19,4 +19,4 @@
 ---
 
 [Course Link](https://www.linkedin.com/learning/html-essential-training-4)
-<br>[Preview Certificate](https://www.linkedin.com/posts/mohamed-tanash-7331a2176_softwarequalityassurance-activity-6843987672441081856-nmNO)
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/f61c4bcb263246ff2a805f72e16b8888919a7b492b4b7e99a942e5ee20a74248?trk=share_certificate)
